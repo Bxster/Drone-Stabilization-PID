@@ -1,0 +1,3 @@
+../Core/Src/ReceiverChannel.c:7:6:Receiver_Init	32	static
+../Core/Src/ReceiverChannel.c:25:7:correctThrottle	16	static
+../Core/Src/ReceiverChannel.c:37:7:correctAngle	16	static
