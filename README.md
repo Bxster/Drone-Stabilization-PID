@@ -1,4 +1,4 @@
-## Introduzione
+# Introduzione
 
 Benvenuto nel repository del progetto riguardante la stabilizzazione di un drone tramite controllori PID.
 
