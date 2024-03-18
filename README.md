@@ -8,7 +8,7 @@ All detailed information, instructions, and explanations are available in the of
 
 **[Spiegazione_Progetto.pdf](https://github.com/Bxster/Drone-Stabilization-PID/files/14413034/Spiegazione_Progetto.pdf)**
 
-## How to COntribute
+## How to Contribute
 
 If you wish to contribute to the project, feel free to create a pull request or open an issue.
 
